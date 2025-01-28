@@ -17,7 +17,6 @@ function adicionarAmigo() {
         document.getElementById('amigo').value = ""; 
         //mantem o botão para sortear habilitado enquanto houver elementos na lista para sortear
         document.getElementById('sortearBtn').disabled = false; 
-    
     }
 }
 
